@@ -3,10 +3,10 @@
 ## Created By [Sourav Sarker Emon](https://find-sourav.netlify.app/)
 ### JavaScript 30Days Challenge (Challenge Day 1)
  <br> <br>
-![CreativeAgency](https://i.ibb.co/fHpg4Pz/Creative-Agency.png)
+![JavaScript DrumKit](https://i.ibb.co/bKFzMBw/js-drum-kit.png)
 
 
-## [Visit the website](https://creative-agency-d5b7d.web.app/)
+## [Visit the live site](https://souemon16.github.io/javascript-drum-kit/index.html)
 
 ### Main Features:
 - Fully created by Javascript DOM Manipaulation.
